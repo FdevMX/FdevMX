@@ -4,11 +4,11 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://github.com/FdevMX/source/blob/2aa7ca5ad336f3e3dd95093853de4da5b6d5a1e3/shadow-garden-the-eminence-in-shadow.gif"  />
+<img align="right" height="180" src="https://github.com/FdevMX/source/blob/2aa7ca5ad336f3e3dd95093853de4da5b6d5a1e3/shadow-garden-the-eminence-in-shadow.gif"  />
 
 ###
 
-<div align="left|center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -30,7 +30,7 @@
 
 ###
 
-<div align="left|center">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
