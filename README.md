@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning Python, Kotlin, and AWS 
 - 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
 
-
-<br></br>
 ### Connect with me 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fdevmx) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]([Fredd_Mendxz](https://twitter.com/Fredd_Mendxz)) 
@@ -32,7 +30,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ### My Github Stats 
-[![FdevMX's GitHub | Stats](https://stats.quine.sh/FdevMX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FdevMX)
+<p align="center">
+  <a href="https://quine.sh?utm_source=widgets&utm_campaign=FdevMX">
+    <img src="https://stats.quine.sh/FdevMX/github?theme=dark" align="center" alt="FdevMX's GitHub | Stats">
+  </a>
+</p>
 
 ###
 [![FdevMX's GitHub | Languages Over Time](https://stats.quine.sh/FdevMX/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FdevMX)
