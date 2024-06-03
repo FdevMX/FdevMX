@@ -3,16 +3,17 @@
 <h3 align="center">A beginner programmer from Mexico</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=fdevmx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" /> </p> 
 
 <br></br>
-<div>
-  <div>
+<div class="container" style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: 0 auto;">
+    <div class="left" style="flex: 1;">
       - 🔭 I’m currently working on Personal projects<br />
       - 🌱 I’m currently learning Python, Kotlin, and AWS<br />
-      - 💬 Talk to me about Python, Freelancing Opportunites, Open Source
-  </div>
-  <div>
-    <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
-  </div>
+      - 💬 Talk to me about Python, Freelancing Opportunities, Open Source
+    </div>
+    <div class="right" style="flex: 1; text-align: right;">
+      <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" style="max-width: 100%; height: auto;" />
+    </div>
 </div>
+
 
 <br></br>
 <br></br>
