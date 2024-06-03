@@ -28,9 +28,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 ### My Github Stats 
-<p align="center">
-  https://stats.quine.sh/FdevMX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FdevMX
-</p>
+[![FdevMX's GitHub | Stats](https://stats.quine.sh/FdevMX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FdevMX)
+
 
 <p align="center">
   [![FdevMX's GitHub | Languages Over Time](https://stats.quine.sh/FdevMX/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FdevMX)
