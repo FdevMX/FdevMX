@@ -5,9 +5,11 @@
 <br></br>
 <div>
   <div>
-    - 🔭 I’m currently working on Personal projects
-    - 🌱 I’m currently learning Python, Kotlin, and AWS 
-    - 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
+    <p>
+      - 🔭 I’m currently working on Personal projects
+      - 🌱 I’m currently learning Python, Kotlin, and AWS 
+      - 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
+    </p>
   </div>
   <div>
     <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
