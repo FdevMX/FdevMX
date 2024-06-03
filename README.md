@@ -43,15 +43,3 @@
   </a>
 </p>
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&hide_progress=true)
-
-
-
-
-
-####
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fdevmx?cardType=github&theme=ayu-mirage&preferLogin=false&Border=DD272700)](https://git.io/awesome-stats-card)
