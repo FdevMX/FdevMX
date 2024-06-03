@@ -3,23 +3,13 @@
 <h3 align="center">A beginner programmer from Mexico</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=fdevmx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" /> </p> 
 
 <br></br>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 80%; margin: 0 auto;">
-    <div style="flex-basis: 60%; text-align: left;">
-        <ul style="list-style-type: none; padding: 0;">
-            <li>- 🔭 I'm currently working on Personal projects</li>
-            <li>- 🌱 I'm currently learning Python, Kotlin, and AWS</li>
-            <li>- 💬 Talk to me about Python, Freelancing Opportunities, Open Source</li>
-        </ul>
-    </div>
-    <div style="flex-basis: 35%; text-align: right;">
-        <img width="100%" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" style="max-width: 100%; height: auto;" />
-    </div>
-</div>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+
+- 🔭 I’m currently working on Personal projects
+- 🌱 I’m currently learning Python, Kotlin, and AWS 
+- 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
 
 
-
-
-<br></br>
 <br></br>
 ### Connect with me 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fdevmx) 
