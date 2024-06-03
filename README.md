@@ -10,9 +10,12 @@
 - 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
 
 
-
+###
+###
+###
+###
 ### Connect with me 
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](fdevmx) 
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fdevmx) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](Fredd_Mendxz) 
 
 ### Languages and tools 
