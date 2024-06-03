@@ -9,11 +9,14 @@
 <div size='20px'> Hi! My name is Fredd. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-
+<h2></h2>
 <p><img src="https://komarev.com/ghpvc/?username=fdevmx&label=Profile+Views&style=flat-square&color=0969da" alt="visitors_count"></p>
 
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <h2 style="margin-right: 10px; margin-bottom: 0;">About Me</h2>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100" height="100" alt="GIF" style="margin-left: 10px;">
+</div>
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
