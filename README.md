@@ -6,7 +6,14 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=fdevmx)
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=FdevMX&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FdevMX&hide_border=true&layout=compact" align="right" /></div>  
+
+<br/>  
+
+
 ########
 
 </p>
@@ -16,7 +23,10 @@
 
 ########
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <h2 style="margin-right: 10px;">About Me</h2>
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100" height="100" alt="GIF">
+</div>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
@@ -44,7 +54,7 @@
 
 <h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@fdevmx&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdevmx&compact=True"/>
 </a>
 <br>
 
