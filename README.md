@@ -14,7 +14,9 @@
 
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <h2 style="margin-right: 10px; margin-bottom: 0;">About Me</h2>
+  <div style="display: flex; align-items: center;">
+    <h2 style="margin-right: 10px; margin-bottom: 0;">About Me</h2>
+  </div>
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width="100" height="100" alt="GIF" style="margin-left: 10px;">
 </div>
 
