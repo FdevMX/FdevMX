@@ -1,10 +1,11 @@
-<img src="https://readme-typing-svg.herokuapp.com/?size=30&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=6776f9&size=32&center=true&vCenter=true&width=800&height=50&lines=I'm+Fredd;Backend+Developer;Student" width="100%">
+<img src="https://readme-typing-svg.herokuapp.com/?size=50&font=Edu+VIC+WA+NT+Beginner&duration=5000&color=6776f9&size=32&center=true&vCenter=true&width=800&height=50&lines=I'm+Fredd;Backend+Developer;Student" width="100%">
 <h1 align="center"> Hello 👋 Fellow < Developers/ >!  </h1>
 <h3 align="center">A beginner programmer from Mexico</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=fdevmx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" /> </p> 
 
 <br></br>
-
-<img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+<p align-items: center>
+  <img width="55%" align="center" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
+</p>
 
 - 🔭 I’m currently working on Personal projects
 - 🌱 I’m currently learning Python, Kotlin, and AWS 
