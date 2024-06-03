@@ -1,7 +1,16 @@
-<h1 align="left">Hi 👋!</h1>
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Fredd%20🤠&text2=💖%20A%20beginner%20programmer%20from%20Mexico&width=900&height=400)
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
 
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=FdevMX)
+
+</p>
+<div size='20px'> Hi! My name is Fredd. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
 
 ###
 
