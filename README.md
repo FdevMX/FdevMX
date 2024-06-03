@@ -37,8 +37,8 @@
 </p>
 
 ###
-<div style="text-align: center;">
+<p align="center">
   <a href="https://quine.sh?utm_source=widgets&utm_campaign=FdevMX">
     <img src="https://stats.quine.sh/FdevMX/languages-over-time?theme=dark" alt="FdevMX's GitHub | Languages Over Time" style="display: inline-block;">
   </a>
-</div>
+</p>
