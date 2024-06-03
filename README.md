@@ -1,4 +1,7 @@
-<h1 align="left">Hi 👋! My name is Fredd.</h1>
+<h1 align="left">Hi 👋!</h1>
+
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Fredd%20🤠&text2=💖%20A%20beginner%20programmer%20from%20Mexico&width=900&height=400)
+
 
 ###
 
@@ -49,18 +52,3 @@
 
 
 
-
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Fredd%20🤠&text2=💖%20A%20beginner%20programmer%20from%20Mexico&width=900&height=400)
-
-
-<img height="auto" src="https://komarev.com/ghpvc/?username=fdevmx&label=Profile%20views&color=0e75b6&style=flat" alt="profile-radme-generator" />
-
-
-
-<p align="left"> <img width="900" height="110" src="https://readme-jokes.vercel.app/api" alt ="tr"/> </p>
-
-
-
-<p align="left"> <img height="auto" src="https://github-profile-trophy.vercel.app/?username=fdevmx&theme=matrix&column=6&no-frame=false&no-bg=false&margin-w=19&margin-h=19" alt="image" /> </p>
-
--
