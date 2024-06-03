@@ -42,3 +42,16 @@
     <img src="https://stats.quine.sh/FdevMX/languages-over-time?theme=dark" alt="FdevMX's GitHub | Languages Over Time" style="display: inline-block;">
   </a>
 </p>
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
+
+
+
+####
+
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fdevmx?cardType=github&theme=ayu-mirage&preferLogin=false&Border=DD272700)](https://git.io/awesome-stats-card)
