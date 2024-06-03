@@ -2,7 +2,10 @@
 <h1 align="center"> Hello 👋 Fellow < Developers/ >!  </h1>
 <h3 align="center">A beginner programmer from Mexico</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=fdevmx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" /> </p> 
 
-###
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 - 🔭 I’m currently working on Personal projects
@@ -10,10 +13,7 @@
 - 💬 Talk to me about Python, Freelancing Opportunites, Open Source 
 
 
-###
-###
-###
-###
+
 ### Connect with me 
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/fdevmx) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](Fredd_Mendxz) 
