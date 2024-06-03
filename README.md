@@ -3,14 +3,14 @@
 <h3 align="center">A beginner programmer from Mexico</h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=fdevmx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="count badge" /> </p> 
 
 <br></br>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 80%; margin: 0 auto;">
-    <div style="flex: 1; text-align: left;">
-      - 🔭 I’m currently working on Personal projects<br />
-      - 🌱 I’m currently learning Python, Kotlin, and AWS<br />
-      - 💬 Talk to me about Python, Freelancing Opportunities, Open Source
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center; width: 80%; margin: 0 auto;">
+    <div style="text-align: left;">
+        - 🔭 I'm currently working on Personal projects<br />
+        - 🌱 I'm currently learning Python, Kotlin, and AWS<br />
+        - 💬 Talk to me about Python, Freelancing Opportunities, Open Source
     </div>
-    <div style="flex: 1; text-align: right;">
-      <img width="55%" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" style="max-width: 100%; height: auto;" />
+    <div style="text-align: right;">
+        <img width="55%" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" style="max-width: 100%; height: auto;" />
     </div>
 </div>
 
