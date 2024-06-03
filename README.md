@@ -29,7 +29,7 @@
 
 ### My Github Stats 
 <p align="center">
-  [![FdevMX's GitHub | Stats](https://stats.quine.sh/FdevMX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FdevMX)
+  https://stats.quine.sh/FdevMX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=FdevMX
 </p>
 
 <p align="center">
