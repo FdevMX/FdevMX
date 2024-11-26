@@ -8,10 +8,10 @@
 
 <table style="border: none;">
   <tr style="border: none;">
-    <td colspan="2" style="padding-right: 20px; width: 60%; border: none;">
+    <td style="text-align: left; width: 50%; border: none;">
       Hello! I am a junior developer passionate about technology and innovation. I specialize in learning and applying new technologies to create efficient and scalable web solutions. Currently, I am focused on full stack development and improving my skills in modern technologies. My goal is to continue growing professionally while contributing to projects that generate a positive impact.
     </td>
-    <td style="text-align: center; width: 40%; border: none;">
+    <td style="text-align: right; width: 50%; border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" width="400" />
     </td>
   </tr>
