@@ -25,7 +25,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/FdevMX/pictorya">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="Pictorya"/>
+        <img src="https://via.placeholder.com/150" width="300" alt="Pictorya"/>
         <br />
         <sub><b>Pictorya</b></sub>
       </a>
@@ -34,7 +34,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/FdevMX/keitify">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="Keitify"/>
+        <img src="https://via.placeholder.com/150" width="300" alt="Keitify"/>
         <br />
         <sub><b>Keitify</b></sub>
       </a>
@@ -43,16 +43,18 @@
     </td>
     <td align="center">
       <a href="https://github.com/FdevMX/delivery_app">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="UNACH EATS"/>
+        <img src="https://via.placeholder.com/150" width="300" alt="UNACH EATS"/>
         <br />
         <sub><b>UNACH EATS</b></sub>
       </a>
       <br />
       <sub>Flutter • Dart • Firebase</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/FdevMX/Weather-Station">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="Weathery"/>
+        <img src="https://via.placeholder.com/150" width="300" alt="Weathery"/>
         <br />
         <sub><b>Weathery</b></sub>
       </a>
@@ -61,15 +63,19 @@
     </td>
     <td align="center">
       <a href="https://github.com/FdevMX/TuxMarket-WebStore">
-        <img src="https://via.placeholder.com/150" width="100px;" alt="TuxMarket"/>
+        <img src="https://via.placeholder.com/150" width="300" alt="TuxMarket"/>
         <br />
         <sub><b>TuxMarket</b></sub>
       </a>
       <br />
       <sub>PHP • Javascript • MySQL</sub>
     </td>
+    <td align="center">
+      <br>
+    </td>
   </tr>
 </table>
+
 
 ## 💻 Technical Skills
 
