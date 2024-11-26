@@ -102,10 +102,10 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=fdevmx&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fdevmx&show_icons=true&theme=radical" alt="GitHub Stats" width="350" />
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdevmx&theme=radical" alt="GitHub Streak Stats" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdevmx&theme=radical" alt="GitHub Streak Stats" width="350" />
   </div>
 </div>
 
