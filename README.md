@@ -11,7 +11,7 @@
     <td style="text-align: left; width: 20%; border: none;">
       Hello! I am a junior developer passionate about technology and innovation. I specialize in learning and applying new technologies to create efficient and scalable web solutions. Currently, I am focused on full stack development and improving my skills in modern technologies. My goal is to continue growing professionally while contributing to projects that generate a positive impact.
     </td>
-    <td style="text-align: right; width: 50%; border: none;">
+    <td style="text-align: right; width: 80%; border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" width="400" />
     </td>
   </tr>
@@ -22,7 +22,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/fdevmx/pictorya">
+      <a href="https://github.com/FdevMX/pictorya">
         <img src="https://via.placeholder.com/150" width="100px;" alt="Pictorya"/>
         <br />
         <sub><b>Pictorya</b></sub>
@@ -31,7 +31,7 @@
       <sub>Kotlin • Compose • Room</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/fdevmx/keitify">
+      <a href="https://github.com/FdevMX/keitify">
         <img src="https://via.placeholder.com/150" width="100px;" alt="Keitify"/>
         <br />
         <sub><b>Keitify</b></sub>
@@ -40,7 +40,7 @@
       <sub>Flutter • Firebase • Google API</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/fdevmx/delivery_app">
+      <a href="https://github.com/FdevMX/delivery_app">
         <img src="https://via.placeholder.com/150" width="100px;" alt="UNACH EATS"/>
         <br />
         <sub><b>UNACH EATS</b></sub>
@@ -49,7 +49,7 @@
       <sub>Flutter • Dart • Firebase</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/fdevmx/Weather-Station">
+      <a href="https://github.com/FdevMX/Weather-Station">
         <img src="https://via.placeholder.com/150" width="100px;" alt="Weathery"/>
         <br />
         <sub><b>Weathery</b></sub>
@@ -58,7 +58,7 @@
       <sub>React • Arduino • MongoDB</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/fdevmx/TuxMarket-WebStore">
+      <a href="https://github.com/FdevMX/TuxMarket-WebStore">
         <img src="https://via.placeholder.com/150" width="100px;" alt="TuxMarket"/>
         <br />
         <sub><b>TuxMarket</b></sub>
