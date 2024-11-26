@@ -6,8 +6,8 @@
 </div>
 <br>
 
-<div align="right">
-  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
+<div align="center">
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <div align="center">
