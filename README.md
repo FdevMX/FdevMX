@@ -31,28 +31,28 @@ Hello! I am a junior developer passionate about technology and innovation. I spe
       <a href="https://github.com/FdevMX/pictorya">
         <img src="https://via.placeholder.com/150" width="300" alt="Pictorya"/>
         <br />
-        <sub><b>Pictorya</b></sub>
+        <sub style="font-size: 18px;"><b>Pictorya</b></sub>
       </a>
       <br />
-      <sub>Kotlin • Compose • Room</sub>
+      <sub style="font-size: 14px;">Kotlin • Compose • Room</sub>
     </td>
     <td align="center">
       <a href="https://github.com/FdevMX/keitify">
         <img src="https://via.placeholder.com/150" width="300" alt="Keitify"/>
         <br />
-        <sub><b>Keitify</b></sub>
+        <sub style="font-size: 18px;"><b>Keitify</b></sub>
       </a>
       <br />
-      <sub>Flutter • Firebase • Google API</sub>
+      <sub style="font-size: 14px;">Flutter • Firebase • Google API</sub>
     </td>
     <td align="center">
       <a href="https://github.com/FdevMX/delivery_app">
         <img src="https://via.placeholder.com/150" width="300" alt="UNACH EATS"/>
         <br />
-        <sub><b>UNACH EATS</b></sub>
+        <sub style="font-size: 18px;"><b>Unach Eats</b></sub>
       </a>
       <br />
-      <sub>Flutter • Dart • Firebase</sub>
+      <sub style="font-size: 14px;">Flutter • Dart • Firebase</sub>
     </td>
   </tr>
   <tr>
@@ -60,19 +60,19 @@ Hello! I am a junior developer passionate about technology and innovation. I spe
       <a href="https://github.com/FdevMX/Weather-Station">
         <img src="https://via.placeholder.com/150" width="300" alt="Weathery"/>
         <br />
-        <sub><b>Weathery</b></sub>
+        <sub style="font-size: 18px;"><b>Weathery</b></sub>
       </a>
       <br />
-      <sub>React • Arduino • MongoDB</sub>
+      <sub style="font-size: 14px;">React • Arduino • MongoDB</sub>
     </td>
     <td align="center">
       <a href="https://github.com/FdevMX/TuxMarket-WebStore">
         <img src="https://via.placeholder.com/150" width="300" alt="TuxMarket"/>
         <br />
-        <sub><b>TuxMarket</b></sub>
+        <sub style="font-size: 18px;"><b>TuxMarket</b></sub>
       </a>
       <br />
-      <sub>PHP • Javascript • MySQL</sub>
+      <sub style="font-size: 14px;">PHP • Javascript • MySQL</sub>
     </td>
     <td align="center">
       <br>
