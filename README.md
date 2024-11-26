@@ -10,15 +10,19 @@
   <p>Hello! I am a junior developer passionate about technology and innovation. I specialize in learning and applying new technologies to create efficient and scalable web solutions. Currently, I am focused on full stack development and improving my skills in modern technologies. My goal is to continue growing professionally while contributing to projects that generate a positive impact.</p>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; max-width: 50%;">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
-  </div>
-  <div style="flex: 1; max-width: 50%;">
-    <iframe src="https://giphy.com/embed/bqSkJ4IwNcoZG" width="100%" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <p><a href="https://giphy.com/gifs/kawaii-smile-bqSkJ4IwNcoZG">via GIPHY</a></p>
-  </div>
-</div>
+<table style="border: 0px solid #00FFFFFF">
+  <tr style="border: 0px solid #00FFFFFF;">
+    <td valign="center" width="50%">
+      <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlnbTZxZTRzaHF1c3QyYzMzdjJxd3g3ZnZjMmptc3oxaXo3anNjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BejdfvEt6eoV2/giphy.webp" style="width: 100%" />
+    </td>
+    <td valign="center" width="50%">
+      <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🚀 Featured Projects
 
 <table>
@@ -75,7 +79,6 @@
     </td>
   </tr>
 </table>
-
 
 ## 💻 Technical Skills
 
