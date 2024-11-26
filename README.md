@@ -10,13 +10,13 @@
   <p>Hello! I am a junior developer passionate about technology and innovation. I specialize in learning and applying new technologies to create efficient and scalable web solutions. Currently, I am focused on full stack development and improving my skills in modern technologies. My goal is to continue growing professionally while contributing to projects that generate a positive impact.</p>
 </div>
 
-<table style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
-  <tr style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
-    <td valign="center" width="50%" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
+<table>
+  <tr>
+    <td valign="center" width="50%">
       <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlnbTZxZTRzaHF1c3QyYzMzdjJxd3g3ZnZjMmptc3oxaXo3anNjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BejdfvEt6eoV2/giphy.webp" style="width: 100%" />
     </td>
-    <td valign="center" width="50%" style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
+    <td valign="center" width="50%">
+      <img align="center" style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
