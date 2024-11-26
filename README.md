@@ -5,10 +5,11 @@
   <img src="https://visitcount.itsvg.in/api?id=fdevmx&icon=0&color=3" alt="Profile views" />
 </div>
 
-<br/>  
+<br>
 Hello! I am a junior developer passionate about technology and innovation. I specialize in learning and applying new technologies to create efficient and scalable web solutions. Currently, I am focused on full stack development and improving my skills in modern technologies. My goal is to continue growing professionally while contributing to projects that generate a positive impact.
 
-<br/>
+<br>
+<br>
 <table>
   <tr>
     <td valign="center" width="50%">
