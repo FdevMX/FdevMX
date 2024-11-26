@@ -10,9 +10,11 @@
   <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
-<div align="left">
+<div align="center">
+  <br>
   <br>
   <p>Hello! I am a junior developer passionate about technology and innovation. I specialize in learning and applying new technologies to create efficient and scalable web solutions. Currently, I am focused on full stack development and improving my skills in modern technologies. My goal is to continue growing professionally while contributing to projects that generate a positive impact.</p>
+  <br>
   <br>
 </div>
 
