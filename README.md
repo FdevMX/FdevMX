@@ -7,7 +7,7 @@
 <br>
 
 <div align="left">
-  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <div align="left">
