@@ -6,14 +6,16 @@
 </div>
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    Hello! I am a junior developer passionate about technology and innovation. I specialize in learning and applying new technologies to create efficient and scalable web solutions. Currently, I am focused on full stack development and improving my skills in modern technologies. My goal is to continue growing professionally while contributing to projects that generate a positive impact.
-  </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" width="300" />
-  </div>
-</div>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td colspan="2" style="padding-right: 20px; width: 60%; border: none;">
+      Hello! I am a junior developer passionate about technology and innovation. I specialize in learning and applying new technologies to create efficient and scalable web solutions. Currently, I am focused on full stack development and improving my skills in modern technologies. My goal is to continue growing professionally while contributing to projects that generate a positive impact.
+    </td>
+    <td style="text-align: center; width: 40%; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdevmx&layout=compact&theme=radical" alt="Most Used Languages" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -100,14 +102,16 @@
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; text-align: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=fdevmx&show_icons=true&theme=radical" alt="GitHub Stats" width="300" />
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdevmx&theme=radical" alt="GitHub Streak Stats" width="300" />
-  </div>
-</div>
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="text-align: left; width: 50%; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=fdevmx&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+    </td>
+    <td style="text-align: right; width: 50%; border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fdevmx&theme=radical" alt="GitHub Streak Stats" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## 🌱 Currently Learning
 
