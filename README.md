@@ -1,5 +1,7 @@
 <h1 align="center">✨ Fredd | Software Developer ✨</h1>
 
+
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/FdevMX/FdevMX/main/assets/banner.gif" alt="Banner" width="100%">
   
@@ -178,7 +180,7 @@ const fredd = {
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=FdevMX&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FdevMX&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
 ## 🌱 Próximos Pasos
