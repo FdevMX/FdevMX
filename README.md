@@ -159,7 +159,7 @@ const fredd = {
 | Proyecto                      | Descripción                                                                              | Tecnologías                            |
 | ----------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------- |
 | **Weather-Station**           | Sistema de monitoreo meteorológico con sensores de Arduino e interfaz web en tiempo real | `Arduino` `C#` `JavaScript` `HTML/CSS` |
-| **TuxMarket-WebStore**        | Plataforma de e-commerce con funciones avanzadas de búsqueda y gestión de inventario     | `HTML/CSS` `JavaScript` `.NET`         |
+| **TuxMarket-WebStore**        | Plataforma de e-commerce con funciones avanzadas de búsqueda y gestión de inventario     | `HTML/CSS` `JavaScript` `PHP`         |
 | **Assembly-Language-Project** | Implementación de algoritmos y exploración del lenguaje ensamblador                      | `Assembly` `C`                         |
 | **Calorie-App**               | Aplicación intuitiva para seguimiento de nutrición y gestión de dietas personalizadas    | `Java` `SQLite`                        |
 
