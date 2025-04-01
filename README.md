@@ -185,11 +185,7 @@ const fredd = {
   <img src="https://skillicons.dev/icons?i=react,nodejs,aws,firebase,flutter" alt="Learning Next" />
 </div>
 
-- 🔭 Profundizando en **Desarrollo de aplicaciones móviles multiplataforma**
-- 🌟 Explorando soluciones de **Cloud Computing y DevOps**
-- 🤖 Estudiando **Inteligencia Artificial y Machine Learning**
-- 🏗️ Mejorando habilidades en **Arquitectura de Software**
-- 🔄 Implementando metodologías de **CI/CD**
+
 
 ## 📫 Conectemos!
 
@@ -219,6 +215,4 @@ const fredd = {
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
 </div>
 
-<div align="center">
-  <i>¿Tienes un proyecto interesante? ¡Contáctame para colaborar!</i>
-</div>
+
