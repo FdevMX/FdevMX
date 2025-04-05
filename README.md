@@ -6,7 +6,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Hi, I'm Fredd <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /></h1>
 
 <div align="center">
-  <img src="banner_github.jpg" alt="Banner" width="100%">
+  <img src="banner_wy.png" alt="Banner" width="100%">
   
   <p align="center">
     <a href="https://github.com/FdevMX"><img src="https://img.shields.io/github/followers/FdevMX?label=Followers&style=social" alt="GitHub Badge"></a>
