@@ -6,20 +6,8 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Hi, I'm Fredd <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /></h1>
 
 <div align="center">
-  <div align="center">
-    <img src="banner_wy.jpg" alt="Banner WY" width="100%" id="banner-image">
-  </div>
-
-  <script>
-    const banners = ["banner_wy.jpg", "banner_github.jpg"];
-    let currentBanner = 0;
-
-    setInterval(() => {
-      currentBanner = (currentBanner + 1) % banners.length;
-      document.getElementById("banner-image").src = banners[currentBanner];
-    }, 5000); // 300000 ms = 5 minutes
-  </script>
-
+  <img src="banner_wy.jpg" alt="Banner" width="100%">
+  
   <p align="center">
     <a href="https://github.com/FdevMX"><img src="https://img.shields.io/github/followers/FdevMX?label=Followers&style=social" alt="GitHub Badge"></a>
     <a href="https://github.com/FdevMX?tab=repositories"><img src="https://img.shields.io/badge/Repos-blue?style=flat-square&logo=github" alt="GitHub Repos"></a>
