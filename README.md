@@ -148,7 +148,7 @@ const fredd = {
   <img src="https://komarev.com/ghpvc/?username=FdevMX&color=blueviolet&style=for-the-badge" alt="Contador de visitas" />
 </div>
 
-<div align="center">
+<div align="center" target="_blank">
   <a href='https://ko-fi.com/V7V31FCSYU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
